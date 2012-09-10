@@ -2,6 +2,11 @@ webstat
 =======
 node.js web server usage statistics
 
+Collect usage statistics:
+    Total requests since the server started
+    Current handled requests
+    Request per second for the last minute / 5 minutes / 15 minutes / hour / day
+
 
 
 usage
