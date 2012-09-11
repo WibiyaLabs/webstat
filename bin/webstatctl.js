@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function requestStats() {
     var http = require('http'),
         options = {
@@ -37,7 +39,7 @@ function requestStats() {
 
 var help = [
     "webstat command line utility",
-    "usage: webstatctl [command]",
+    "usage: webstat [command]",
     "",
     "command:",
     "  status     Show the web server stats",

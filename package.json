@@ -13,7 +13,7 @@
         "lib":"./lib"
     },
     "main":"webstat",
-    "bin":"./webstatctl.js",
+    "bin":"./bin/webstatctl.js",
     "repository":{
         "type":"git",
         "url":"https://github.com/WibiyaLabs/webstat.git"
