@@ -12,7 +12,7 @@
         "bin":"./bin",
         "lib":"./lib"
     },
-    "main":"webstat",
+    "main":"./lib/webstat",
     "bin":"./bin/webstatctl.js",
     "repository":{
         "type":"git",
